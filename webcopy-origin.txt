@@ -1,0 +1,204 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css
+File Name: C:\Users\Ahmed\Downloads\vegex.site\npm\bootstrap@5.3.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\npm\bootstrap@5.3.0\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\npm\gsap@3.12.5\dist\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Users\Ahmed\Downloads\vegex.site\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+File Name: C:\Users\Ahmed\Downloads\vegex.site\npm\swiper@11\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\npm\swiper@11\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.lordicon.com/aklfruoc.json
+File Name: C:\Users\Ahmed\Downloads\vegex.site\aklfruoc.json
+Content Type: application/json
+
+Uri: https://cdn.lordicon.com/lecprnjb.json
+File Name: C:\Users\Ahmed\Downloads\vegex.site\lecprnjb.json
+Content Type: application/json
+
+Uri: https://cdn.lordicon.com/lordicon.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\lordicon.js
+Content Type: application/javascript
+
+Uri: https://cdn.plyr.io/3.7.8/plyr.css
+File Name: C:\Users\Ahmed\Downloads\vegex.site\3.7.8\plyr.css
+Content Type: text/css
+
+Uri: https://cdn.plyr.io/3.7.8/plyr.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\3.7.8\plyr.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\font-awesome\6.4.2\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\gsap\3.10.4\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollToPlugin.min.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\gsap\3.12.2\ScrollToPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/i18next/21.6.12/i18next.min.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\ajax\libs\i18next\21.6.12\i18next.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.cdnfonts.com/css/xeroda
+File Name: C:\Users\Ahmed\Downloads\vegex.site\css\xeroda
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/103312/XerodaRegular-p7dwr.woff
+File Name: C:\Users\Ahmed\Downloads\vegex.site\s\103312\XerodaRegular-p7dwr.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/@barba/core@2.10.3/dist/barba.umd.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\@barba\core@2.10.3\dist\barba.umd.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/i18next@21.6.14/dist/umd/i18next.min.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\i18next@21.6.14\dist\umd\i18next.min.js
+Content Type: text/javascript
+
+Uri: https://vegex.site/
+File Name: C:\Users\Ahmed\Downloads\vegex.site\index.htm
+Content Type: text/html
+
+Uri: https://vegex.site/after effects.png
+File Name: C:\Users\Ahmed\Downloads\vegex.site\after effects.png
+Content Type: image/png
+
+Uri: https://vegex.site/app.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\app.js
+Content Type: application/x-javascript
+
+Uri: https://vegex.site/apple-touch-icon.png
+File Name: C:\Users\Ahmed\Downloads\vegex.site\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://vegex.site/bootstrap.min.css
+File Name: C:\Users\Ahmed\Downloads\vegex.site\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://vegex.site/butter.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\butter.js
+Content Type: application/x-javascript
+
+Uri: https://vegex.site/course-details.html?course=After Effects
+File Name: C:\Users\Ahmed\Downloads\vegex.site\course-details.html
+Content Type: text/html
+
+Uri: https://vegex.site/course-details.html?course=Operating System
+File Name: C:\Users\Ahmed\Downloads\vegex.site\course-details-2.html
+Content Type: text/html
+
+Uri: https://vegex.site/course-details.html?course=PowerPoint
+File Name: C:\Users\Ahmed\Downloads\vegex.site\course-details-1.html
+Content Type: text/html
+
+Uri: https://vegex.site/details.css
+File Name: C:\Users\Ahmed\Downloads\vegex.site\details.css
+Content Type: text/css
+
+Uri: https://vegex.site/details.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\details.js
+Content Type: application/x-javascript
+
+Uri: https://vegex.site/favicon-16x16.png
+File Name: C:\Users\Ahmed\Downloads\vegex.site\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://vegex.site/favicon-32x32.png
+File Name: C:\Users\Ahmed\Downloads\vegex.site\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://vegex.site/index.html
+File Name: C:\Users\Ahmed\Downloads\vegex.site\index-1.html
+Content Type: text/html
+
+Uri: https://vegex.site/particles.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\particles.js
+Content Type: application/x-javascript
+
+Uri: https://vegex.site/point.png
+File Name: C:\Users\Ahmed\Downloads\vegex.site\point.png
+Content Type: image/png
+
+Uri: https://vegex.site/script.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\script.js
+Content Type: application/x-javascript
+
+Uri: https://vegex.site/splittext.min.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\splittext.min.js
+Content Type: application/x-javascript
+
+Uri: https://vegex.site/style.css
+File Name: C:\Users\Ahmed\Downloads\vegex.site\style.css
+Content Type: text/css
+
+Uri: https://vegex.site/tutorials.html
+File Name: C:\Users\Ahmed\Downloads\vegex.site\tutorials.html
+Content Type: text/html
+
+Uri: https://vegex.site/tutorials.js
+File Name: C:\Users\Ahmed\Downloads\vegex.site\tutorials.js
+Content Type: application/x-javascript
+
+Uri: https://vegex.site/vegex.png
+File Name: C:\Users\Ahmed\Downloads\vegex.site\vegex.png
+Content Type: image/png
+
+Uri: https://vegex.site/VIP Hakm.ttf
+File Name: C:\Users\Ahmed\Downloads\vegex.site\VIP Hakm.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://vegex.site/win.png
+File Name: C:\Users\Ahmed\Downloads\vegex.site\win.png
+Content Type: image/png
+
